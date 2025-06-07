@@ -1,5 +1,7 @@
 # 🛡️ Hide_Text_In_Img_Using_Steganography
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mohanraj9342-hide-text-in-img-using-steganograph-project-lksvdn.streamlit.app/)
+
 A modern web application to **hide (encode)** and **reveal (decode)** secret messages in images using the Least Significant Bit (LSB) steganography technique.  
 Built with [Streamlit](https://streamlit.io/) and Python, this app also supports optional password-based encryption for enhanced security.
 
