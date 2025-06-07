@@ -178,6 +178,7 @@ elif mode == "Decode":
                 st.error(f"Decoding failed: {e}")
 
 if st.button("🔄 Reset"):
+    st.session_state.clear()
     st.experimental_rerun()
 
 st.info("ℹ️ Note: LSB steganography only hides data, it does not encrypt it. For sensitive information, use encryption before hiding.")
