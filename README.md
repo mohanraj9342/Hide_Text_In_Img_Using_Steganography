@@ -1,5 +1,9 @@
 # 🛡️ Hide_Text_In_Img_Using_Steganography
 
+<p align="center">
+  <img src="logo.png" alt="StegoCrypt Logo" width="150" />
+</p>
+
 **[🌐 Open the App (Live Demo)](https://mohanraj9342.github.io/Hide_Text_In_Img_Using_Steganography/)**
 
 A modern, entirely client-side web application to **hide (encode)** and **reveal (decode)** secret messages in images using the Least Significant Bit (LSB) steganography technique.  

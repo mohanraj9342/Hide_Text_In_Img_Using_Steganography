@@ -851,3 +851,10 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   .hero-actions { flex-direction: column; align-items: center; }
   .btn-lg { width: 100%; justify-content: center; }
 }
+
+.logo-icon-img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 4px;
+}
